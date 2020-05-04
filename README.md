@@ -20,6 +20,7 @@
 
 [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/) [code](./code/1095.py)
 
+[45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) [code](./code/45.py) (贪心算法)
 
 ## 字符串
 
