@@ -74,11 +74,7 @@
 
 [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) [code](./code/22.py)
 
-[46. 全排列](https://leetcode-cn.com/problems/permutations/) [code](./code/46.py)
-
-## 指针
-
-[202. 快乐数](https://leetcode-cn.com/problems/happy-number/) [code](./code/202.py)
+[46. 全排列](https://leetcode-cn.com/problems/permutations/) [code](./code/202.py)
 
 ## DFS/WFS
 
