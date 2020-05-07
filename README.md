@@ -28,6 +28,7 @@
 [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) [code](./code/42.py) (双指针)
 [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) [code](./code/45.py) (贪心算法)
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) [code](./code/55.py) (贪心算法)
+[572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) [code](./code/572.py)
 [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) [code](./code/945.py)
 [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) [code](./code/1013.py)
 [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/) [code](./code/1095.py)
