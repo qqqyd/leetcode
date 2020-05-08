@@ -4,6 +4,7 @@
 
 ## 动态规划
 [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) [code](./code/72.py)
+[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) [code](./code/221.py)
 [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) [code](./code/300.py)
 [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/) [code](./code/312.py)
 [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) [code](./code/322.py)
