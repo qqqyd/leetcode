@@ -22,6 +22,7 @@
 
 ## 二叉树
 [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) [code](./code/98.py)
+[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) [code](./code/236.py)
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) [code](./code/543.py)
 
 ## 数组
