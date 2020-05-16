@@ -26,6 +26,8 @@
 ## 链表
 [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code](./code/21.py)
 
+[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) [code](./code/25.py)
+
 [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) [code](./code/430.py)
 
 [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) [code](./code/445.py)
