@@ -78,6 +78,8 @@
 ## 字符串
 [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) [code](./code/3.py)
 
+[680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) [code](./code/680.py)
+
 [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) [code](./code/1071.py)
 
 ## 回溯算法
