@@ -82,6 +82,8 @@
 
 [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) [code](./code/1071.py)
 
+[1371. 每个元音包含偶数次的最长子字符串](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) [code](./code/1371.py)
+
 ## 回溯算法
 [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) [code](./code/22.py)
 
