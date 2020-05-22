@@ -42,6 +42,8 @@
 
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) [code](./code/102.py)
 
+[105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [code](./code/105.py)
+
 [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) [code](./code/236.py)
 
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) [code](./code/543.py)
