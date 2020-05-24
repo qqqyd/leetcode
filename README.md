@@ -51,6 +51,8 @@
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) [code](./code/543.py)
 
 ## 数组
+[4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) [code](./code/4.py)
+
 [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) [code](./code/11.py)
 
 [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) [code](./code/42.py) (双指针)
