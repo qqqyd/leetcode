@@ -61,6 +61,8 @@
 
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) [code](./code/55.py) (贪心算法)
 
+[287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) [code](./code/287.py)
+
 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) [code](./code/560.py)
 
 [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) [code](./code/572.py)
