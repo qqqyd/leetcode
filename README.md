@@ -69,6 +69,8 @@
 
 [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) [code](./code/945.py)
 
+[974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) [code](./code/974.py)
+
 [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) [code](./code/1013.py)
 
 [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/) [code](./code/1095.py)
