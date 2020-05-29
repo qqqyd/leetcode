@@ -8,6 +8,8 @@
 ## 动态规划
 [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) [code](./code/72.py)
 
+[198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) [code](./code/198.py)
+
 [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) [code](./code/221.py)
 
 [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) [code](./code/300.py)
