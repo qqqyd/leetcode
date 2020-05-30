@@ -63,6 +63,8 @@
 
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) [code](./code/55.py) (贪心算法)
 
+[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) [code](./code/84.py) (栈)
+
 [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) [code](./code/287.py)
 
 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) [code](./code/560.py)
