@@ -44,6 +44,8 @@
 ## 二叉树
 [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) [code](./code/98.py)
 
+[101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [code](./code/101.py)
+
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) [code](./code/102.py)
 
 [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [code](./code/105.py)
