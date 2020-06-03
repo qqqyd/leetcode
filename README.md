@@ -20,6 +20,8 @@
 
 [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/) [code](./code/466.py)
 
+[837. 新21点]https://leetcode-cn.com/problems/new-21-game/) [code](./code/837.py)
+
 [983. 最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) [code](./code/983.py)
 
 [面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/) [code](./code/面试题08.11.py)
