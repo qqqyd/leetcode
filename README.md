@@ -69,6 +69,8 @@
 
 [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) [code](./code/84.py) (栈)
 
+[238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [code](./code/238.py)
+
 [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) [code](./code/287.py)
 
 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) [code](./code/560.py)
