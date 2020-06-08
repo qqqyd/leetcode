@@ -127,3 +127,6 @@
 
 [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) [code](./code/1162.py)
 
+## 图
+
+[990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/) [code](./code/990.py)
