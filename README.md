@@ -20,7 +20,7 @@
 
 [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/) [code](./code/466.py)
 
-[837. 新21点]https://leetcode-cn.com/problems/new-21-game/) [code](./code/837.py)
+[837. 新21点](https://leetcode-cn.com/problems/new-21-game/) [code](./code/837.py)
 
 [983. 最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) [code](./code/983.py)
 
@@ -28,6 +28,7 @@
 
 [面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/) [code](./code/面试题17.16.py)
 
+[面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) [code](./code/面试题46.py)
 
 ## 链表
 [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code](./code/21.py)
@@ -91,9 +92,9 @@
 
 [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) [code](./code/面试题01.07.py)
 
-[面试题56-I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) [code](./code/面试题56-I.py)
-
 [面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) [code](./code/面试题40.py)
+
+[面试题56-I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) [code](./code/面试题56-I.py)
 
 [面试题62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) [code](./code/面试题62.py)
 
@@ -101,7 +102,6 @@
 [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) [code](./code/3.py)
 
 [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) [code](./code/5.py)
-
 
 [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) [code](./code/680.py)
 
