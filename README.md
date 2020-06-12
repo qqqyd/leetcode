@@ -62,6 +62,8 @@
 
 [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) [code](./code/11.py)
 
+[15. 三数之和](https://leetcode-cn.com/problems/3sum/) [code](./code/15.py) (双指针)
+
 [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) [code](./code/42.py) (双指针)
 
 [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) [code](./code/45.py) (贪心算法)
