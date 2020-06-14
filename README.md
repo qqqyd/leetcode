@@ -6,6 +6,8 @@
 [480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) [code](./code/480.py)
 
 ## 动态规划
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) [code](./code/70.py)
+
 [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) [code](./code/72.py)
 
 [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) [code](./code/198.py)
@@ -93,6 +95,8 @@
 [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/) [code](./code/1095.py)
 
 [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) [code](./code/1248.py) (双指针)
+
+[1300. 转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) [code](./code/1300.py)
 
 [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) [code](./code/面试题01.07.py)
 
